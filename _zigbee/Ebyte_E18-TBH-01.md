@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator, router
 zigbeeid: none
 compatible: [tasmota,zha]
-mlink: http://www.ebyte.com/en/product-view-news.aspx?id=949
+mlink: https://www.cdebyte.com/products/E18-TBH-01
 link: https://www.aliexpress.com/item/4000783978568.html
 ---
 This module consists of a TI CC2530 and a CC2592 power amplifier chip. With 20dbm transmit power its realistic indoor range is 10-12m.
@@ -24,4 +24,4 @@ Identify the required pins and follow flashing instructions:
 
 VCC pin tolerates 3.6V max. **DO NOT** connect to 5V.
 
-[User manual](/assets/files/E18-TBH-01_Datasheet_EN_v1.0.pdf).
+[User manual](https://www.cdebyte.com/pdf-down.aspx?id=2042).
