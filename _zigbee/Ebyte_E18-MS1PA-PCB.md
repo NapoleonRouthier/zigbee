@@ -8,7 +8,7 @@ supports: coordinator
 image: /assets/images/devices/Ebyte_E18-MS1PA-PCB.jpg
 zigbeeid: none
 compatible: [tasmota,z2m,zha, z4d]
-mlink: http://www.ebyte.com/en/product-view-news.aspx?id=121
+mlink: https://www.cdebyte.com/products/E18-MS1PA1-PCB
 link: https://www.amazon.com/cdebyte-Wireless-Transceiver-E18-MS1PA1-PCB-Antenna/dp/B082M6W88K/
 link2: https://www.amazon.de/dp/B07P8Z383W/
 link3: https://www.aliexpress.com/item/4000537373705.html
@@ -34,4 +34,4 @@ VCC pin tolerates 3.6V max. **DO NOT** connect to 5V.
 
 ![Wired to Dupont cables](/assets/images/devices/Ebyte_E18-MS1PA-PCB_wired.webp)
 
-[User manual](/assets/files/E18-MS1PA1-PCB_Usermanual_EN_v1.1.pdf).
+[User manual](https://www.cdebyte.com/pdf-down.aspx?id=1751).
