@@ -7,7 +7,7 @@ category: coordinator
 supports: coordinator, router
 zigbeeid: none
 compatible: [tasmota,zha,z4d]
-mlink: http://www.ebyte.com/en/product-view-news.aspx?id=919
+mlink: https://www.cdebyte.com/products/E18-MS1PA2-PCB
 link: https://www.aliexpress.com/item/4000818121979.html
 ---
 This module consists of a TI CC2530 and a PA+LNA power amplifier chip. With 20dbm transmit power its realistic indoor range is 10-12m.
@@ -24,4 +24,4 @@ Identify the required pins and follow flashing instructions:
 
 VCC pin tolerates 3.6V max. **DO NOT** connect to 5V.
 
-[User manual](/assets/files/E18-MS1PA2-IPX_UserManual_EN_v1.1.pdf).
+[User manual](https://www.cdebyte.com/pdf-down.aspx?id=2523).
